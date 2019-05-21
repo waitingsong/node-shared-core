@@ -11,7 +11,7 @@ cache:
 
 environment:
   matrix:
-    - nodejs_version: "11"
+    - nodejs_version: "11.0"
 
 platform:
   - x64

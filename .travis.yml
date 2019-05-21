@@ -2,7 +2,7 @@ if: tag IS blank
 
 language: node_js
 node_js:
-- '11'
+- '11.0'
 
 cache:
   directories:
