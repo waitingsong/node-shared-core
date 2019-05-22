@@ -2,7 +2,6 @@ if: tag IS blank
 
 language: node_js
 node_js:
-- '11.0'
 - '12'
 
 cache:
